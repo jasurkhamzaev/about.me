@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jasurkhamzaev
+Hi, I’m @jasurkhamzaev
 I work with a team of talented engineers to create web and mobile games that are engaging, interactive, and user-friendly. I use HTML, CSS, JavaScript, Node.js, Vue.js, Python, Python GUI, PHP, Bootstrap, Java, Kotlin, Dart, and Flutter to design, develop, and test various features and functionalities for our games.
 
 I am passionate about learning new technologies and applying them to solve challenging problems. I have gained a solid foundation in programming, data structures, algorithms, and software engineering. I am also fluent in English, Uzbek, and Russian, which allows me to communicate effectively with diverse clients and stakeholders. My goal is to become a proficient and versatile software engineer who can deliver high-quality and innovative solutions for the gaming industry.
