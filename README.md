@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jasur Khamzayev</h1>
-<h3 align="center">I'm Jasur, a software engineer and technical writer with over 1-2 years of experience in the IT industry. I'm passionate about sharing my knowledge and expertise with others, and I hope this blog will help you learn more about information technology.</h3>
+<h3 align="center">I work with a team of talented engineers to create web and mobile games that are engaging, interactive, and user-friendly. I use HTML, CSS, JavaScript, Node.js, Vue.js, Python, Python GUI, PHP, Bootstrap, Java, Kotlin, Dart, and Flutter to design, develop, and test various features and functionalities for our games.
+
+I am passionate about learning new technologies and applying them to solve challenging problems.I have gained a solid foundation in programming, data structures, algorithms, and software engineering. I am also fluent in English, Uzbek, and Russian, which allows me to communicate effectively with diverse clients and stakeholders. My goal is to become a proficient and versatile software engineer who can deliver high-quality and innovative solutions for the gaming industry.</h3>
 
 - 📊 I worked in Until December 2022 Web Developer for Upwork Freelancer, From June to early July 2023
 Full Stack Developer for Zamin Mobile
